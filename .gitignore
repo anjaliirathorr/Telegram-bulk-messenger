@@ -1,0 +1,10 @@
+.env
+*.session
+*.session-journal
+logs/
+data/sent_users.json
+data/failed_users.json
+sessions/
+__pycache__/
+*.pyc
+telegram_env/

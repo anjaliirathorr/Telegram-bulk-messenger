@@ -1,0 +1,21 @@
+{
+  "sent_users": [],
+  "failed_users": [
+    {
+      "user": "@Thoyee",
+      "status": "flood_error",
+      "error": "Peer flood error - wait 24 hours",
+      "timestamp": "2025-06-16T15:21:10.608900",
+      "is_contact": false
+    }
+  ],
+  "stats": {
+    "sent": 0,
+    "failed": 0,
+    "skipped": 0,
+    "total": 5,
+    "contacts": 0,
+    "non_contacts": 1
+  },
+  "timestamp": "2025-06-16T15:21:11.044298"
+}
